@@ -53,14 +53,14 @@ Still working hard on this ～
 
 # 🎖 Honors and Awards
 - *2021.4* Honorable Mention of ICM.
-- *2020,2021* Academic Excellence Scholarship of SJTU(Third-Class).|Top 30%
-- *2019,2020,2021,2022* Zhiyuan Honor Scholarship.|Top 10% 
+- *2020,2021* Academic Excellence Scholarship of SJTU(Third-Class).(Top 30%)
+- *2019,2020,2021,2022* Zhiyuan Honor Scholarship.(Top 10%) 
 
 
 # 📖 Educations
 - *2023.09 - now*, Ph.D student, School of Biomedical Engineering, Shanghai Jiao Tong University. Shanghai. 
 - *2019.09 - 2023.06*, Undergraduate, Zhiyuan College, Shanghai Jiao Tong University. Shanghai.
-- *2016.09 -2019.06*, Yishui 1st Middle School. Linyi. 
+- *2016.09 - 2019.06*, Yishui 1st Middle School. Linyi. 
 
 <!--# 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -68,4 +68,4 @@ Still working hard on this ～
 
 # 💻 Internships
 - *2020.02 - 2021.03*, Shaolab, School of Biomedical Engineering, Shanghai Jiao Tong University. Shanghai. 
-- *2021.6 -2022.9*, Lilab, Shanghai Institute of Immunology. Shanghai.
+- *2021.6 - 2022.9*, Lilab, Shanghai Institute of Immunology. Shanghai.
